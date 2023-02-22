@@ -1,5 +1,5 @@
 body {
-    background-color: purple;
+    background-color: pink;
 }
 
 .bgimg {
@@ -21,7 +21,7 @@ a:hover{
 .accbtn {
     border-radius: 5px;
     border-style: none;
-    background-color: darkblue;
+    background-color: lightseagreen;
     color: #EDEDED;
     opacity: 0.9;
     font-size: 20px;
